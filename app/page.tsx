@@ -108,7 +108,7 @@ export default function Home() {
           </p>
         </a>
       </div>
-      <div className="bg-gradient-to-br bg-green-400">Hello TailwindCSS - Lovely - </div>
+      <div className="bg-gradient-to-br bg-green-400">Hello TailwindCSS - Lovely - NEW DEPLOYMENT 1</div>
     </main>
   );
 }
